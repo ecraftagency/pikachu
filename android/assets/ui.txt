@@ -1,0 +1,96 @@
+ui.png
+size: 1737, 1840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+adsbtn
+  rotate: false
+  xy: 1484, 0
+  size: 115, 120
+  orig: 115, 120
+  offset: 0, 0
+  index: -1
+changebtn
+  rotate: false
+  xy: 1254, 0
+  size: 115, 120
+  orig: 115, 120
+  offset: 0, 0
+  index: -1
+hintbtn
+  rotate: false
+  xy: 1369, 0
+  size: 115, 120
+  orig: 115, 120
+  offset: 0, 0
+  index: -1
+levelbtn
+  rotate: false
+  xy: 418, 0
+  size: 418, 105
+  orig: 418, 105
+  offset: 0, 0
+  index: -1
+mutebtn
+  rotate: false
+  xy: 224, 140
+  size: 224, 233
+  orig: 224, 233
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 975, 140
+  size: 624, 500
+  orig: 624, 500
+  offset: 0, 0
+  index: -1
+pausebtn
+  rotate: false
+  xy: 1599, 0
+  size: 138, 140
+  orig: 138, 140
+  offset: 0, 0
+  index: -1
+playbtn
+  rotate: false
+  xy: 672, 140
+  size: 303, 309
+  orig: 303, 309
+  offset: 0, 0
+  index: -1
+ratebtn
+  rotate: false
+  xy: 836, 0
+  size: 418, 105
+  orig: 418, 105
+  offset: 0, 0
+  index: -1
+scorebtn
+  rotate: false
+  xy: 0, 140
+  size: 224, 233
+  orig: 224, 233
+  offset: 0, 0
+  index: -1
+skinbtn
+  rotate: false
+  xy: 0, 0
+  size: 418, 105
+  orig: 418, 105
+  offset: 0, 0
+  index: -1
+sun
+  rotate: false
+  xy: 0, 640
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+unmutebtn
+  rotate: false
+  xy: 448, 140
+  size: 224, 233
+  orig: 224, 233
+  offset: 0, 0
+  index: -1
